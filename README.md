@@ -8,3 +8,4 @@ Welcome! This is my personal GitHub Pages site with information about my project
 ```bash
 brew install topbigman14/tap/<formula>
 ```
+ 
