@@ -1,7 +1,10 @@
-# topbigman14.github.io
-## how to install my projects
-<gold/><bold/> method 1: </bold>just use brew install topbigman14/tap/<formula>
-methid 2: use nbrew but it is not made yet :(
-</gold>
-## ok so what do i do
-idk
+# TopBigman14 - Personal Website
+
+Welcome! This is my personal GitHub Pages site with information about my projects.
+
+## 📦 Installation
+
+### Method 1: Homebrew (Recommended)
+```bash
+brew install topbigman14/tap/<formula>
+```
